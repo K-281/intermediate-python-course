@@ -1,4 +1,4 @@
-# Intermediate Python Course
+# Python Dice game
 
 Hey there, 
 
